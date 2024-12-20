@@ -14,6 +14,6 @@
 `-p , --password` 
 ### Specify the password like  file.txt 
 `-s, --sign ` 
-`-o, --output ` 
-### Specify the output file to save successful login
 
+### Specify the output file to save successful login
+`-o, --output ` 
